@@ -54,5 +54,9 @@ insert into Employee
 (2, 'Mike', 'M', '9654321977', '2019-12-23', 200000.00),
 (3, 'Rohn', 'M', '9443321097', '2017-04-12', 300000.00),
 (4, 'Charle', 'F', '9954321970', '2019-12-23', 450000.00)
+select * from Company
+select * from Employee
+select * from Department
+
 
 
